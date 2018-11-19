@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PayLib</string>
+    <string name="install_support">您未安装最新版本微信，不支持微信支付，请安装或升级微信版本</string>
+</resources>
